@@ -1,0 +1,14 @@
+# Downloaded model weights and llama.cpp source/build are recreated by setup.sh.
+/models/
+/vendor/
+
+# Python and local environment artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Local editor/OS files and logs
+.DS_Store
+*.log
